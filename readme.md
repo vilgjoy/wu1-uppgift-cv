@@ -42,6 +42,7 @@ Lämna in figma-länk/bilder (fota).
 * Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.xyz/media/bilder/).
 * Testa (wave).
 
+### Dokumentera
 När arbetet är klart så reflekterar du utöver din process och dokumenterar det i din loggbok.
 * Vad har gått bra med HTML/CSS/MEDIA.
 * Vad behöver/vill du lära dig mer om utifrån dessa delar.
@@ -49,7 +50,7 @@ När arbetet är klart så reflekterar du utöver din process och dokumenterar d
 
 ## Inlämning
 
-* Länk till din GitHub-repo.
-* Länk till din GitHub pages.
+* Länk till ditt GitHub-repo.
+* Länk till sidan på GitHub pages.
 * Dokumentation i loggboken.
 * Skisser.
