@@ -19,28 +19,33 @@ Lämna in figma-länk/bilder (fota).
 
 ## Tänk på att 
 
-* Din sida ska använda sig av HTML + CSS. 
+### Planera för
+* Din sida ska använda sig av HTML + CSS.
 * Typsnitt, serif eller sans serif. Font från Google om du vill.
+* Färger, minst en (svart, vit, grå räknas inte).
 * Visuella element (vad får din sida att stå ut).
 * Din logotyp (från digitalt skapande).
 * Minst en bild (redigerad för att passa arbetet, tänk på copyright). Planera för den.
 
-Koda strukturen.
+### Koda strukturen
 * Enbart HTML.
-* Testa verktyg för att kontrollera din struktur. [Validera](https://validator.nu/) din HTML.
+* Testa verktyg för att kontrollera din struktur. [Validera](https://validator.nu/) din HTML. [Validera HTML](https://webbutveckling.jensa.xyz/praxis/kod/validera-html/)
 * Lägg till media. Använd en bild, samt din logotyp(från Digitalt skapande).
+
+### Styla
 * Skapa CSS.
 * Arbeta med stilar för din design.
+* [Validera](https://jigsaw.w3.org/css-validator/) din CSS. [Validera CSS](https://webbutveckling.jensa.xyz/praxis/kod/validera-css/)
 
-Hosta sidan på GitHub pages.
+### Hosta sidan på GitHub pages.
 * Validera HTML och CSS.
-* Kontrolla dina bilder.
+* Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.xyz/media/bilder/).
 * Testa (wave).
 
 När arbetet är klart så reflekterar du utöver din process och dokumenterar det i din loggbok.
 * Vad har gått bra med HTML/CSS/MEDIA.
 * Vad behöver/vill du lära dig mer om utifrån dessa delar.
-* Hur gick validering och teseter
+* Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.
 
 ## Inlämning
 
