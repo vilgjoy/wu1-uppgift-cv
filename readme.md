@@ -27,6 +27,12 @@ Lämna in figma-länk/bilder (fota).
 * Din logotyp (från digitalt skapande).
 * Minst en bild (redigerad för att passa arbetet, tänk på copyright). Planera för den.
 
+### Start
+
+Jag rekommenderar att du baserar din grundläggande layout kring något av de exempel vi arbetat med.
+* [Centrerad layout](https://www.jensa.xyz/posts/speedrun-centrerad-layout/)
+* [Sidebar](https://gist.github.com/jensnti/bb51bcacf47d83d031121ee2ea50d17c)
+
 ### Koda strukturen
 * Enbart HTML.
 * Testa verktyg för att kontrollera din struktur. [Validera](https://validator.nu/) din HTML. [Validera HTML](https://webbutveckling.jensa.xyz/praxis/kod/validera-html/)
