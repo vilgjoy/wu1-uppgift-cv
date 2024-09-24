@@ -15,7 +15,7 @@ Skapa en planering för ditt arbete. Det ska vara gjort och planerat innan du ko
 Har du skissat i tidigare uppgift, använd detta. Börja med papper, när du har en grund gå vidare till Figma. 
 Lämna in figma-länk/bilder (fota).
 
-[Planering](https://webbutveckling.jensa.xyz/projektarbete/planering/)
+[Planering](https://webbutveckling.jensa.dev/projektarbete/planering/)
 
 ## Tänk på att 
 
@@ -30,22 +30,22 @@ Lämna in figma-länk/bilder (fota).
 ### Start
 
 Jag rekommenderar att du baserar din grundläggande layout kring något av de exempel vi arbetat med.
-* [Centrerad layout](https://www.jensa.xyz/posts/speedrun-centrerad-layout/)
-* [Sidebar](https://gist.github.com/jensnti/bb51bcacf47d83d031121ee2ea50d17c)
+* [Centrerad layout](https://jensa.dev/posts/speedrun-centrerad-layout/)
+* [Sidebar](https://jensa.dev/posts/sidebar-layout/)
 
 ### Koda strukturen
 * Enbart HTML.
-* Testa verktyg för att kontrollera din struktur. [Validera](https://validator.nu/) din HTML. [Validera HTML](https://webbutveckling.jensa.xyz/praxis/kod/validera-html/)
+* Testa verktyg för att kontrollera din struktur. [Validera](https://validator.nu/) din HTML. [Validera HTML](https://webbutveckling.jensa.dev/praxis/kod/validera-html/)
 * Lägg till media. Använd en bild, samt din logotyp(från Digitalt skapande).
 
 ### Styla
 * Skapa CSS.
 * Arbeta med stilar för din design.
-* [Validera](https://jigsaw.w3.org/css-validator/) din CSS. [Validera CSS](https://webbutveckling.jensa.xyz/praxis/kod/validera-css/)
+* [Validera](https://jigsaw.w3.org/css-validator/) din CSS. [Validera CSS](https://webbutveckling.jensa.dev/praxis/kod/validera-css/)
 
 ### Hosta sidan på GitHub pages.
 * Validera HTML och CSS.
-* Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.xyz/media/bilder/).
+* Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.dev/media/bilder/).
 * Testa (wave).
 
 ### Dokumentera
