@@ -2,8 +2,8 @@
 
 Följande saker ska göras.
 
-1. Forka repot till ditt eget konto.
-2. Klona repot till din dator.
+1. Forka repot till ditt eget konto. Klicka FORK här på GitHub.
+2. Klona repot till din dator. Öppna git-bash, `cd code`, `git clone URLTILLDITTREPO`
 3. Planera / logga
 4. Arbeta
 5. Commit + push
