@@ -29,7 +29,11 @@ Lämna in figma-länk/bilder (fota).
 
 ### Start
 
-Jag rekommenderar att du baserar din grundläggande layout kring något av de exempel vi arbetat med.
+Jag rekommenderar att du arbetar med kursmaterial i ordningen som finns där, dels för att förstå vad och varför du gör något, men också för att få en bra struktur.
+* Arbeta igenom [område HTML](https://webbutveckling.jensa.dev/tekniker/html/) men med texten för ditt CV för att skapa en bra dokumentstruktur.
+* Sedan arbetar du igenom [område CSS](https://webbutveckling.jensa.dev/tekniker/css/) och använder det som du behöver för att skapa en fungerande layout.
+
+Om du vill så kan du även använda materialet för olika layouter som du hittar här:
 * [Centrerad layout](https://jensa.dev/posts/speedrun-centrerad-layout/)
 * [Sidebar](https://jensa.dev/posts/sidebar-layout/)
 
@@ -38,15 +42,16 @@ Jag rekommenderar att du baserar din grundläggande layout kring något av de ex
 * Testa verktyg för att kontrollera din struktur. [Validera](https://validator.nu/) din HTML. [Validera HTML](https://webbutveckling.jensa.dev/praxis/kod/validera-html/)
 * Lägg till media. Använd en bild, samt din logotyp(från Digitalt skapande).
 
-### Styla
+### Styla strukturen
 * Skapa CSS.
 * Arbeta med stilar för din design.
 * [Validera](https://jigsaw.w3.org/css-validator/) din CSS. [Validera CSS](https://webbutveckling.jensa.dev/praxis/kod/validera-css/)
 
 ### Hosta sidan på GitHub pages.
-* Validera HTML och CSS.
-* Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.dev/media/bilder/).
-* Testa (wave).
+* Validera HTML och CSS. Anteckna resultat, eventuella fel och rättningar.
+* Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.dev/media/bilder/). Anteckna resultat, eventuella fel och rättningar.
+* Testa från telefonen / utvecklarverktygen. Anteckna resultat, eventuella fel och rättningar.
+* Testa (wave). Anteckna resultat, eventuella fel och rättningar.
 
 ### Dokumentera
 När arbetet är klart så reflekterar du utöver din process och dokumenterar det i din loggbok.
