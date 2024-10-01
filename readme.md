@@ -49,7 +49,7 @@ Om du vill så kan du även använda materialet för olika layouter som du hitta
 
 ### Hosta sidan på GitHub pages.
 * Validera HTML och CSS. Anteckna resultat, eventuella fel och rättningar.
-* Kontrolla dina bilder, [info om bilder](https://webbutveckling.jensa.dev/media/bilder/). Anteckna resultat, eventuella fel och rättningar.
+* Kontrolla dina bilder, sökvägar och filnamn. Försök undvika jättestora bilder (flera megabyte).
 * Testa från telefonen / utvecklarverktygen. Anteckna resultat, eventuella fel och rättningar.
 * Testa (wave). Anteckna resultat, eventuella fel och rättningar.
 
