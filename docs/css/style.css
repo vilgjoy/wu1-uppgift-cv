@@ -1,6 +1,47 @@
 
-div{
-width: 50px;
-height: 200px;
-background-color: rgb(151, 83, 77);
+body {
+    font-family: var(--font-body);
+    font-size: 1.2rem;
+}
+
+.with-sidebar {
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: row-reverse;*/
+    gap: 1rem;
+}
+
+.not-sidebar {
+    flex-basis: 0;
+    flex-grow: 999;
+    min-inline-size: 50%;
+}
+.navbar {
+    padding-inline: 1.4rem;
+}
+
+.flow > * + *{
+    margin-top: var(--font-space, 1em);
+}
+
+.sidebar {
+    flex-basis: var(--sidebar-width);
+    flex-grow: 1;
+}
+
+.region {
+    margin-top: 2.6rem;
+    margin-bottom: 2.6rem;
+}
+
+article {
+    max-width: 36rem;
+    margin-inline: auto;
+}
+
+.container {
+    max-width: var(--container-width);
+    margin-left: auto;
+    margin-right: auto;
+    padding-inline: 1.4rem;
 }

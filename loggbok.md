@@ -24,6 +24,10 @@ Behöver göra:
 - Göra klart det som ska stå i rektangelen
 - Skriva ut text
 
-Sedan kan du skriva i loggform om vad du har arbetat med från planering och hur det har gått att arbeta med.
 
-Skriv även sådant som du måste arbeta med nästa pass.
+2 Oktober 2024
+- Har nästan gjort klart layouten på CV
+
+Behöver göra:
+- Lägga till min karaktärs bild mellan linje 10 och 11
+- Lägga till min karaktärs logga på linje 40
