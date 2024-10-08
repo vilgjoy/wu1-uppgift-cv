@@ -31,3 +31,10 @@ Behöver göra:
 Behöver göra:
 - Lägga till min karaktärs bild mellan linje 10 och 11
 - Lägga till min karaktärs logga på linje 40
+
+8 Oktober 2024
+- Har lagt in bilderna
+
+Behöver göra:
+- Behöver fråga Jens om vad jag gör fel
+- Hur man får över bilder
