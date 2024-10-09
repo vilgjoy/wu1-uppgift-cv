@@ -1,4 +1,10 @@
 
+:root {
+    --sidebar-width: 16rem;
+    --container-width: 36rem;
+    --font-body: sans-serif;
+}
+
 body {
     font-family: var(--font-body);
     font-size: 1.2rem;
@@ -44,4 +50,9 @@ article {
     margin-left: auto;
     margin-right: auto;
     padding-inline: 1.4rem;
+}
+
+img {
+    max-width: 400%;
+    height: auto;
 }

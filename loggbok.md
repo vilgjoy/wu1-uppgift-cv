@@ -38,3 +38,10 @@ Behöver göra:
 Behöver göra:
 - Behöver fråga Jens om vad jag gör fel
 - Hur man får över bilder
+
+
+9 Oktober 2024
+- Har inte kunnat göra något meningsfullt
+
+Behöver göra:
+- Samma sak som förra dagen
