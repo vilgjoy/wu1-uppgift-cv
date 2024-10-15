@@ -45,3 +45,10 @@ Behöver göra:
 
 Behöver göra:
 - Samma sak som förra dagen
+
+15 Oktober 2024
+- Kunnat fixa problemet
+
+Behöver göra:
+- Göra så att texten är centrerad
+- Ta bort backgrunden på bilderna

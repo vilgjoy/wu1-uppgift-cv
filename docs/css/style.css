@@ -53,6 +53,10 @@ article {
 }
 
 img {
-    max-width: 400%;
+    max-width: 75%;
     height: auto;
+}
+
+div {
+    background-color: bisque;
 }
