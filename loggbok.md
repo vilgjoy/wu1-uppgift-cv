@@ -46,9 +46,21 @@ Behöver göra:
 Behöver göra:
 - Samma sak som förra dagen
 
+
+
 15 Oktober 2024
 - Kunnat fixa problemet
 
 Behöver göra:
 - Göra så att texten är centrerad
 - Ta bort backgrunden på bilderna
+
+
+16 Oktober 2024
+- Har gjort förbättrningar så det ser snyggare ut
+
+Behöver göra:
+- Göra så att sista delen av texten är centrerad
+- Göra det mer snyggare
+- Fixa bilden
+

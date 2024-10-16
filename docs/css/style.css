@@ -1,6 +1,6 @@
 
 :root {
-    --sidebar-width: 16rem;
+    --sidebar-width: 20rem;
     --container-width: 36rem;
     --font-body: sans-serif;
 }
@@ -59,4 +59,22 @@ img {
 
 div {
     background-color: bisque;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.text-container {
+    ul {
+        border-bottom: 3px solid black;
+    }
+}
+
+.container-flow {
+    
+
+}
+
+.about {
+
 }
