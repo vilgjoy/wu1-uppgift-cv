@@ -1,0 +1,3 @@
+Sammanfattning från loggboken har allting gått bra, lärt mig grunderna de första veckorna, 8:onde och 9:onde gjorde inte mycket för jag hade ett problem som behövde lösas av lärarens hjälp. Efter det så var det bara att göra webben så snygg som jag kunde tills jag var färdig med den och använda WAVE-toolen för att se om det fanns några problem. Det enda problemet WAVE hittade var att jag inte hade en first level heading, men det är därför att jag kände att det inte passade i min webb och varför jag inte kommer lägga till en h1.
+
+(Ps. Bilderna var godtagliga.)

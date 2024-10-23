@@ -64,3 +64,7 @@ Behöver göra:
 - Göra det mer snyggare
 - Fixa bilden
 
+22 Oktober 2024
+- Har gjort klart hemsidan
+
+
